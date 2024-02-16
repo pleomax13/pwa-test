@@ -1,0 +1,1 @@
+import{_ as c,c as e,o}from"./index-vqFVyF1L.js";const t={};function _(n,r){return o(),e("div",null,"страница не найдена")}const s=c(t,[["render",_],["__scopeId","data-v-c7125477"]]);export{s as default};
